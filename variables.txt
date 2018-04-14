@@ -4,11 +4,13 @@ B01001. Sex by Age
 B01002. Median Age by Sex
 B01003. Total Population
 B02001. Race
+
 B05010. Ratio of Income to Poverty Level in the Past 12 Months of Children by Living Arrangements and Nativity of Parents
 B06009. PLACE OF BIRTH BY EDUCATIONAL ATTAINMENT IN THE UNITED STATES
 B06010. Place of Birth by Individual Income in the Past 12 Months (in 2015 Inflation-Adjusted Dollars) in the United States
 B06011. Median Income in the Past 12 Months (in 2015 Inflation-Adjusted Dollars) by Place of Birth in the United States
 B06012. PLACE OF BIRTH BY POVERTY STATUS IN THE PAST 12 MONTHS IN THE UNITED STATES
+
 B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.
 B07004A. Geographical Mobility in the Past Year (White Alone) for Current Residence in the U.S.
 B07007. Geographical Mobility in the Past Year by Citizenship Status for Current Residence in the U.S.
@@ -21,6 +23,7 @@ B07410. Geographical Mobility in the Past Year by Individual Income in the Past 
 B07411. Median Income in the Past 12 Months (in 2015 Inflation-Adjusted Dollars) by Geographical Mobility in the Past Year for Residence 1 Year Ago in the United States
 B07412. Geographical Mobility in the Past Year by Poverty Status for Residence 1 Year Ago in the U.S.
 B07413. Geographical Mobility in the Past Year by Tenure for Residence 1 Year Ago in the U.S.
+
 B08006. Sex of Workers by Means of Transportation to Work
 B08007. SEX OF WORKERS BY PLACE OF WORK--STATE AND COUNTY LEVEL
 B08011. SEX OF WORKERS BY TIME LEAVING HOME TO GO TO WORK
@@ -49,7 +52,49 @@ B08505A. MEANS OF TRANSPORTATION TO WORK FOR WORKPLACE GEOGRAPHY (WHITE ALONE)
 B08511. MEANS OF TRANSPORTATION TO WORK BY CITIZENSHIP STATUS FOR WORKPLACE GEOGRAPHY
 B08513. MEANS OF TRANSPORTATION TO WORK BY LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH FOR WORKPLACE GEOGRAPHY
 B08522. MEANS OF TRANSPORTATION TO WORK BY POVERTY STATUS IN THE PAST 12 MONTHS FOR WORKPLACE GEOGRAPHY
+
 B15001. SEX BY AGE BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 18 YEARS AND OVER
 B16010. EDUCATIONAL ATTAINMENT AND EMPLOYMENT STATUS BY LANGUAGE SPOKEN AT HOME FOR THE POPULATION 25 YEARS AND OVER
 B17001. Poverty Status in the past 12 Months by Sex by Age
 B17001A. POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE (WHITE ALONE)
+B17003. POVERTY STATUS IN THE PAST 12 MONTHS OF INDIVIDUALS BY SEX BY EDUCATIONAL ATTAINMENT
+B17005. POVERTY STATUS IN THE PAST 12 MONTHS OF INDIVIDUALS BY SEX BY EMPLOYMENT STATUS
+B17020. Poverty Status in the Past 12 Months by Age
+B17020A. POVERTY STATUS IN THE PAST 12 MONTHS BY AGE (WHITE ALONE)
+B17021. Poverty Status of Individuals in the Past 12 Months by Living Arrangement
+
+B18101A. Age by Disability Status (White Alone)
+
+B19001. Household Income in the Past 12 Months (in 2015 Inflation-Adjusted Dollars)
+B19001A. Household Income in the Past 12 Months (in 2015 Inflation-Adjusted Dollars) (White Alone Householder)
+B19025. Aggregate Household Income in the Past 12 Months (in 2015 Inflation-Adjusted Dollars)
+B19037. Age of Householder by Household Income in the Past 12 Months (in 2015 Inflation-Adjusted Dollars)
+B19037A. Age of Householder by Household Income in the Past 12 Months (in 2015 Inflation-Adjusted Dollars) (White Alone Householder)
+B19051. Earnings for Households
+B19083. Gini Index Of Income Inequality
+B19101A. Family Income in the Past 12 Months (in 2015 Inflation-Adjusted Dollars) (White Alone Householder)
+B19201. Nonfamily Household Income in the Past 12 Months (in 2015 Inflation-Adjusted Dollars)
+
+B21001. SEX BY AGE BY VETERAN STATUS FOR THE CIVILIAN POPULATION 18 YEARS AND OVER
+
+B25003A. TENURE (WHITE ALONE HOUSEHOLDER)
+B25004. Vacancy Status
+B25006. RACE OF HOUSEHOLDER
+B25014. Tenure by Occupants per Room
+B25014A. OCCUPANTS PER ROOM (WHITE ALONE HOUSEHOLDER)
+B25032A. UNITS IN STRUCTURE (WHITE ALONE HOUSEHOLDER)
+B25056. Contract Rent
+B25061. Rent Asked
+B25063. Gross Rent
+B25069. INCLUSION OF UTILITIES IN RENT
+B25070. Gross Rent as a Percentage of Household Income
+B25072. Age of Householder by Gross Rent as a Percentage of Household Income
+B25075. Value
+B25096. Mortgage Status by Value
+B25104. Monthly Housing Costs
+B25106. Tenure by Housing Costs As A Percentage of Household Income
+B25107. Median Value by Year Structure Built
+
+B27001. Health Insurance Coverage Status by Sex by Age
+B98013. Total Population Coverage Rate by Weighting Race and Hispanic or Latino Groups
+C27001A. Health Insurance Coverage Status by Age (White Alone)
